@@ -18,6 +18,16 @@ A Nest.js-based QR code generator that provides links to pages with lists of ran
 
 
 
+## Deployed to Render
+https://gr-code.onrender.com  base URL
+
+https://gr-code.onrender.com/qr-code  to get the QR code
+
+https://gr-code.onrender.com/gr-code/movies/  random movies
+
+
+
+
 ## Built With
 
 - [Nest.js](https://nestjs.com/)
