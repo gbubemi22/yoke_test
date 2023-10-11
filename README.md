@@ -37,6 +37,3 @@ https://gr-code.onrender.com/gr-code/movies/  random movies
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Special thanks to the [OpenAI GPT-3](https://beta.openai.com/signup/) for assistance.
