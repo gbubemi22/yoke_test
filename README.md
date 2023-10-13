@@ -23,7 +23,7 @@ https://gr-code.onrender.com  base URL
 
 https://gr-code.onrender.com/qr-code  to get the QR code
 
-https://gr-code.onrender.com/gr-code/movies/  random movies
+https://gr-code.onrender.com/qr-code/movies/  random movies
 
 
 
